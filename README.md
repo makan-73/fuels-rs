@@ -29,7 +29,7 @@ See [the `fuels-rs` book](https://fuellabs.github.io/fuels-rs/latest/)
 - [ ] Wallet integration
 - [ ] Events querying/monitoring
 
-## FAQ
+
 
 ### What dependencies do I need?
 
